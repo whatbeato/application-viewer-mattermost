@@ -1,2 +1,6 @@
-# application-viewer-mattermost
-Club's Application Viewer, except it's for Mattermost, since Slack is extorting us with a $195k/yr bill increase.
+<p align="center">
+    <img width="192" alt="Hack Club logo" src="https://assets.hackclub.com/flag-standalone.svg">
+</p>
+<h1 align="center">
+    The new Application Viewer!
+</h1>
